@@ -1,6 +1,6 @@
 # 瘋狂醫院２超級醫生 攻略
 
-《瘋狂醫院２超級醫生（Dr. Realist 2 / Crazy Doctor 2，1991）》遊戲攻略集。
+《瘋狂醫院２超級醫生（Crazy Hospital II，1995）》遊戲攻略集。
 
 ## 目錄
 - [青衫版攻略](dr2_strategy_guide_zh.md) — 重新排版過的青衫版攻略
